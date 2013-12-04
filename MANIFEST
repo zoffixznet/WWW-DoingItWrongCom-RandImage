@@ -1,0 +1,11 @@
+Build.PL
+Changes
+MANIFEST
+README
+examples/wrong.pl
+lib/WWW/DoingItWrongCom/RandImage.pm
+t/00-load.t
+t/pod-coverage.t
+t/pod.t
+Makefile.PL
+META.yml
